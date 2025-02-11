@@ -18,7 +18,7 @@
 
 - [**dkv**](https://github.com/xincao9/dkv): 对象存储 - 日志结构哈希表
 - [**grpc-pure-spring-boot-starter**](https://github.com/xincao9/grpc-pure-spring-boot-starter): 一个简化 gRPC 集成到 Spring Boot 应用中的轻量级框架
-- [**infra-framework**](https://github.com/xincao9/infra-framework): 开箱即用的Java基础框架
+- [**infra-framework**](https://github.com/xincao9/infra-framework): 一个开箱即用的Java基础框架，旨在提供常用功能，简化项目开发
 
 ## GitHub 统计
 
